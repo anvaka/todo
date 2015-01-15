@@ -44,3 +44,6 @@ function greet(user) {
  return "Hello " + user.getName();
 }
 ```
+
+# ZSH <=> JS transpiler
+Could be fun to write this transpiler...
