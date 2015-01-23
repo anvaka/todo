@@ -1,6 +1,6 @@
 # todo
 
-I have lots of ideas, not so much time. Just dump my ideas here. Feel free to implement them.
+I have lots of ideas, not so much time. Just dump my ideas here, without any particular order. Feel free to implement them.
 
 # Browserify plugin to generate `guard` statements.
 
@@ -44,6 +44,13 @@ function greet(user) {
  return "Hello " + user.getName();
 }
 ```
+
+# Generate web-friendly builds for commonjs packages
+
+When you have a browser-friendly commonjs package, it's often desirable to just play with it
+on jsbin/jsfiddle. It would be nice to have a script which automatically browserifies and
+publishes package to `gh-pages`, so, that users can just copy-paste link to browserified
+version.
 
 # ZSH <=> JS transpiler
 Could be fun to write this transpiler...
