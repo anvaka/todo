@@ -52,8 +52,8 @@ on jsbin/jsfiddle. It would be nice to have a script which automatically browser
 publishes package to `gh-pages`, so, that users can just copy-paste link to browserified
 version.
 
-One can use `http://requirebin.com/` or [browserify as a service](https://github.com/jesusabdullah/browserify-cdn) too.
-These are awesome tool. I just find requirebin less user friendly who needs html/css too. 
+One can use http://requirebin.com/ or [browserify as a service](https://github.com/jesusabdullah/browserify-cdn) too.
+These are awesome tools. I just find requirebin less user friendly who needs html/css too. 
 Whereas `browserify-cdn` is potentially not as reliable as gh-pages.
 
 # ZSH <=> JS transpiler
